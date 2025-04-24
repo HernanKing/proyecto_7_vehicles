@@ -23,3 +23,7 @@ La aplicación web proporciona las siguientes funciones:
 3.  Navega al directorio raíz del proyecto en tu terminal.
 4.  Ejecuta el comando `streamlit run app.py`.
 5.  Y listo !!!
+
+para el revisor:
+enlace a mi aplicación:
+https://proyecto-7-vehicles-1.onrender.com
