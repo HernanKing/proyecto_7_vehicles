@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
         
-df_vehicles_us = pd.read_csv('C:/Users/hdcor/OneDrive/Documentos/Proyecto_7/proyecto_7_vehicles/vehicles_us.csv')
+df_vehicles_us = pd.read_csv('vehicles_us.csv')
 
 st.header('Aplicación de vehículos Americanos')
 
